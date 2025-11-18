@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elias-whatsapp-link.vercel.app/sitemap.xml
